@@ -7,10 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-In my home country there has been a shift from subsistence to agribusiness farming. I want to create an app that will help farmers manage their farms/greenhouses. The application will collect sensor data(temperature, humidity) and send it to ThingSpeak cloud for storage and analysis. It will notify the farmer of any environmental factors that will destroy their crops.
+In my home country there has been a shift from subsistence to agribusiness farming. I want to create an app that will help farmers manage their greenhouses. The application will collect sensor data(temperature, humidity, soil moisture ) and send it to ThingSpeak cloud for storage and analysis. It will notify the farmer of any environmental factors that will destroy their crops.
 A Rasberry Pi or Arduino can be used to collect the sensor data and send it to ThingSpeak but for the moment I will be sending http requests with mock sensor data to ThingSpeak instead. I will then create a web client that will get the data from the ThingSpeak and visualize it. Once I have the data I can write an algorithm that will notify the farmer(could be via SMS) on the environmental condition.
 ### Features
-1. User Login: User will be able login and view a dashboard of sensor data of their farm or greenhouse
+1. User Login: User will be able login and view a dashboard of sensor data of their greenhouse
 2. Notification: User can receive a notification of any environmental factor that can affect their crop
 3. Reactive interface: User will be able to view charts that are dynamic and modern 
 ### Technologies
