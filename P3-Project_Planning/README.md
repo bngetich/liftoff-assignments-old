@@ -16,5 +16,11 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
+<<<<<<< HEAD
 [Project Tracker](https://github.com/bngetich/liftoff-assignments/projects/1)
 [Repository](https://github.com/bngetich/E-Greenhouse)
+=======
+### Project Repo Link
+
+(Include a link to your project on GitHub)
+>>>>>>> 8cb1e714183253b315fed071fb55b427cf9a2c1a
